@@ -8,3 +8,4 @@
 | 2 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Go](https://github.com/daolivar/leetcode/blob/main/implement-strStr.go) | Easy |
 | 3 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Go](https://github.com/daolivar/leetcode/blob/main/remove-duplicates-from-sorted-array.go) | Easy |
 | 4 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Go](https://github.com/daolivar/leetcode/blob/main/two-sum.go) | Easy |
+| 5 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Go](https://github.com/daolivar/leetcode/blob/main/valid-palindrome.go) | Easy |
