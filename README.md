@@ -12,5 +12,6 @@
 | 6 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Go](https://github.com/daolivar/leetcode/blob/main/implement-strStr.go) | Easy |
 | 7 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Go](https://github.com/daolivar/leetcode/blob/main/remove-duplicates-from-sorted-array.go) | Easy |
 | 8 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Go](https://github.com/daolivar/leetcode/blob/main/same-tree.go) | Easy |
-| 9 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Go](https://github.com/daolivar/leetcode/blob/main/two-sum.go) | Easy |
-| 10 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Go](https://github.com/daolivar/leetcode/blob/main/valid-palindrome.go) | Easy |
+| 9 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Go](https://github.com/daolivar/leetcode/blob/main/symmetric-tree.go) | Easy |
+| 10 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Go](https://github.com/daolivar/leetcode/blob/main/two-sum.go) | Easy |
+| 11 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Go](https://github.com/daolivar/leetcode/blob/main/valid-palindrome.go) | Easy |
