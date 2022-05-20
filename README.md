@@ -11,9 +11,10 @@
 | 5 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [Go](https://github.com/daolivar/leetcode/blob/main/convert-binary-number-in-a-linked-list-to-integer.go) | 🟩 Easy |
 | 6 | [Design Parking System](https://leetcode.com/problems/design-parking-system/) | [Go](https://github.com/daolivar/leetcode/blob/main/design-parking-system.go) | 🟩 Easy |
 | 7 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Go](https://github.com/daolivar/leetcode/blob/main/implement-strStr.go) | 🟩 Easy |
-| 8 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Go](https://github.com/daolivar/leetcode/blob/main/remove-duplicates-from-sorted-array.go) | 🟩 Easy |
-| 9 | [Remove Nth Node from End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Go](https://github.com/daolivar/leetcode/blob/main/remove-nth-node-from-end-of-list.go) | 🟧 Med. |
-| 10 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Go](https://github.com/daolivar/leetcode/blob/main/same-tree.go) | 🟩 Easy |
-| 11 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Go](https://github.com/daolivar/leetcode/blob/main/symmetric-tree.go) | 🟩 Easy |
-| 12 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Go](https://github.com/daolivar/leetcode/blob/main/two-sum.go) | 🟩 Easy |
-| 13 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Go](https://github.com/daolivar/leetcode/blob/main/valid-palindrome.go) | 🟩 Easy |
+| 8 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Go](https://github.com/daolivar/leetcode/blob/main/linked-list-cycle.go) | 🟩 Easy |
+| 9 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Go](https://github.com/daolivar/leetcode/blob/main/remove-duplicates-from-sorted-array.go) | 🟩 Easy |
+| 10 | [Remove Nth Node from End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Go](https://github.com/daolivar/leetcode/blob/main/remove-nth-node-from-end-of-list.go) | 🟧 Med. |
+| 11 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Go](https://github.com/daolivar/leetcode/blob/main/same-tree.go) | 🟩 Easy |
+| 12 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Go](https://github.com/daolivar/leetcode/blob/main/symmetric-tree.go) | 🟩 Easy |
+| 13 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Go](https://github.com/daolivar/leetcode/blob/main/two-sum.go) | 🟩 Easy |
+| 14 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Go](https://github.com/daolivar/leetcode/blob/main/valid-palindrome.go) | 🟩 Easy |
