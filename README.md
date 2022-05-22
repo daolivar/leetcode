@@ -12,6 +12,7 @@
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Go](https://github.com/daolivar/leetcode/blob/main/binary-tree-inorder-traversal.go) | 🟩 Easy |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Go](https://github.com/daolivar/leetcode/blob/main/same-tree.go) | 🟩 Easy |
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Go](https://github.com/daolivar/leetcode/blob/main/symmetric-tree.go) | 🟩 Easy |
+| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Go](https://github.com/daolivar/leetcode/blob/main/maximum-depth-of-binary-tree.go) | 🟩 Easy |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Go](https://github.com/daolivar/leetcode/blob/main/valid-palindrome.go) | 🟩 Easy |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Go](https://github.com/daolivar/leetcode/blob/main/linked-list-cycle.go) | 🟩 Easy |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Go](https://github.com/daolivar/leetcode/blob/main/binary-tree-preorder-traversal.go) | 🟩 Easy |
