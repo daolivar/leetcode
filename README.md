@@ -6,6 +6,7 @@
 | :----: | :----: | :----: | :----: |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Go](https://github.com/daolivar/leetcode/blob/main/two-sum.go) | 🟩 Easy |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Go](https://github.com/daolivar/leetcode/blob/main/add-two-numbers.go) | 🟧 Med. |
+| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Go](https://github.com/daolivar/leetcode/blob/main/palindrome-number.go) | 🟩 Easy |
 | 19 | [Remove Nth Node from End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Go](https://github.com/daolivar/leetcode/blob/main/remove-nth-node-from-end-of-list.go) | 🟧 Med. |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Go](https://github.com/daolivar/leetcode/blob/main/remove-duplicates-from-sorted-array.go) | 🟩 Easy |
 | 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Go](https://github.com/daolivar/leetcode/blob/main/implement-strStr.go) | 🟩 Easy |
