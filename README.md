@@ -23,3 +23,4 @@
 | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Go](https://github.com/daolivar/leetcode/blob/main/binary-tree-postorder-traversal.go) | 🟩 Easy |
 | 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [Go](https://github.com/daolivar/leetcode/blob/main/convert-binary-number-in-a-linked-list-to-integer.go) | 🟩 Easy |
 | 1603 | [Design Parking System](https://leetcode.com/problems/design-parking-system/) | [Go](https://github.com/daolivar/leetcode/blob/main/design-parking-system.go) | 🟩 Easy |
+| 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | [Go](https://github.com/daolivar/leetcode/blob/main/add-two-integers.go) | 🟩 Easy |
