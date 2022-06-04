@@ -12,6 +12,7 @@
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Go](https://github.com/daolivar/leetcode/blob/main/remove-duplicates-from-sorted-array.go) | 🟩 Easy |
 | 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Go](https://github.com/daolivar/leetcode/blob/main/implement-strStr.go) | 🟩 Easy |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Go](https://github.com/daolivar/leetcode/blob/main/search-insert-position.go) | 🟩 Easy |
+| 58 | [ Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Go](https://github.com/daolivar/leetcode/blob/main/length-of-last-word.go) | 🟩 Easy |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Go](https://github.com/daolivar/leetcode/blob/main/remove-duplicates-from-sorted-list.go) | 🟩 Easy |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Go](https://github.com/daolivar/leetcode/blob/main/binary-tree-inorder-traversal.go) | 🟩 Easy |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Go](https://github.com/daolivar/leetcode/blob/main/same-tree.go) | 🟩 Easy |
