@@ -24,7 +24,7 @@
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Go](https://github.com/daolivar/leetcode/blob/main/go/binary-tree-preorder-traversal.go) | 🟩 Easy |
 | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Go](https://github.com/daolivar/leetcode/blob/main/go/binary-tree-postorder-traversal.go) | 🟩 Easy |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Go](https://github.com/daolivar/leetcode/blob/main/go/contains-duplicate.go), [Java](https://github.com/daolivar/leetcode/blob/main/java/contains-duplicate/Solution.java) | 🟩 Easy |
-| 242 | [Valid Anagram](https://leetcode.com/problems/contains-duplicate/) | [Java](https://github.com/daolivar/leetcode/blob/main/java/valid-anagram/Solution.java) | 🟩 Easy |
+| 242 | [Valid Anagram](https://leetcode.com/problems/contains-duplicate/) | [Go](https://github.com/daolivar/leetcode/blob/main/go/valid-anagram.go), [Java](https://github.com/daolivar/leetcode/blob/main/java/valid-anagram/Solution.java) | 🟩 Easy |
 | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | [Go](https://github.com/daolivar/leetcode/blob/main/go/find-the-difference.go) | 🟩 Easy |
 | 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [Go](https://github.com/daolivar/leetcode/blob/main/go/convert-binary-number-in-a-linked-list-to-integer.go) | 🟩 Easy |
 | 1603 | [Design Parking System](https://leetcode.com/problems/design-parking-system/) | [Go](https://github.com/daolivar/leetcode/blob/main/go/design-parking-system.go) | 🟩 Easy |
