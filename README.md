@@ -4,7 +4,7 @@
 
 | <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/> | Description | Solution | Difficulty |
 | :----: | :----: | :----: | :----: |
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Go](https://github.com/daolivar/leetcode/blob/main/go/two-sum.go) | 🟩 Easy |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Go](https://github.com/daolivar/leetcode/blob/main/go/two-sum.go), [Java](https://github.com/daolivar/leetcode/blob/main/java/two-sum/Solution.java) | 🟩 Easy |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Go](https://github.com/daolivar/leetcode/blob/main/go/add-two-numbers.go) | 🟧 Med. |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Go](https://github.com/daolivar/leetcode/blob/main/go/palindrome-number.go) | 🟩 Easy |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Go](https://github.com/daolivar/leetcode/blob/main/go/roman-to-integer.go) | 🟩 Easy |
