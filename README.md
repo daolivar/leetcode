@@ -19,6 +19,7 @@
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Go](https://github.com/daolivar/leetcode/blob/main/go/symmetric-tree.go) | 🟩 Easy |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Go](https://github.com/daolivar/leetcode/blob/main/go/maximum-depth-of-binary-tree.go) | 🟩 Easy |
 | 111 | [Minimun Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Go](https://github.com/daolivar/leetcode/blob/main/go/minimum-depth-of-binary-tree.go) | 🟩 Easy |
+| 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Go](https://github.com/daolivar/leetcode/blob/main/go/best-time-to-buy-and-sell-stock.go) | 🟩 Easy |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Go](https://github.com/daolivar/leetcode/blob/main/go/valid-palindrome.go), [Java](https://github.com/daolivar/leetcode/blob/main/java/valid-palindrome/Solution.java) | 🟩 Easy |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Go](https://github.com/daolivar/leetcode/blob/main/go/linked-list-cycle.go) | 🟩 Easy |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Go](https://github.com/daolivar/leetcode/blob/main/go/binary-tree-preorder-traversal.go) | 🟩 Easy |
