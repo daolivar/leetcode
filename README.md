@@ -24,6 +24,7 @@
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Go](https://github.com/daolivar/leetcode/blob/main/go/linked-list-cycle.go) | 🟩 Easy |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Go](https://github.com/daolivar/leetcode/blob/main/go/binary-tree-preorder-traversal.go) | 🟩 Easy |
 | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Go](https://github.com/daolivar/leetcode/blob/main/go/binary-tree-postorder-traversal.go) | 🟩 Easy |
+| 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [Go](https://github.com/daolivar/leetcode/blob/main/go/min-stack.go) | 🟩 Easy |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Go](https://github.com/daolivar/leetcode/blob/main/go/contains-duplicate.go), [Java](https://github.com/daolivar/leetcode/blob/main/java/contains-duplicate/Solution.java) | 🟩 Easy |
 | 242 | [Valid Anagram](https://leetcode.com/problems/contains-duplicate/) | [Go](https://github.com/daolivar/leetcode/blob/main/go/valid-anagram.go), [Java](https://github.com/daolivar/leetcode/blob/main/java/valid-anagram/Solution.java) | 🟩 Easy |
 | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | [Go](https://github.com/daolivar/leetcode/blob/main/go/find-the-difference.go) | 🟩 Easy |
