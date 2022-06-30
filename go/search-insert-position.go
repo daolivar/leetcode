@@ -30,9 +30,11 @@ func searchInsertRecursive(nums []int, target int) int {
 func binarySearchRecursive(nums []int, l int, r int, target int) int {
 	if l <= r {
 		m := l + (r-l)/2
+
 		if nums[m] == target {
 			return m
 		}
+
 		if nums[m] > target {
 			return binarySearchRecursive(nums, l, m-1, target)
 		}
