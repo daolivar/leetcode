@@ -28,6 +28,7 @@
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Go](https://github.com/daolivar/leetcode/blob/main/go/contains-duplicate.go), [Java](https://github.com/daolivar/leetcode/blob/main/java/contains-duplicate/Solution.java) | 🟩 Easy |
 | 242 | [Valid Anagram](https://leetcode.com/problems/contains-duplicate/) | [Go](https://github.com/daolivar/leetcode/blob/main/go/valid-anagram.go), [Java](https://github.com/daolivar/leetcode/blob/main/java/valid-anagram/Solution.java) | 🟩 Easy |
 | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | [Go](https://github.com/daolivar/leetcode/blob/main/go/find-the-difference.go) | 🟩 Easy |
+| 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Go](https://github.com/daolivar/leetcode/blob/main/go/binary-search.go) | 🟩 Easy |
 | 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [Go](https://github.com/daolivar/leetcode/blob/main/go/convert-binary-number-in-a-linked-list-to-integer.go) | 🟩 Easy |
 | 1603 | [Design Parking System](https://leetcode.com/problems/design-parking-system/) | [Go](https://github.com/daolivar/leetcode/blob/main/go/design-parking-system.go) | 🟩 Easy |
 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | [Go](https://github.com/daolivar/leetcode/blob/main/go/add-two-integers.go) | 🟩 Easy |
