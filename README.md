@@ -9,6 +9,7 @@
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Go](https://github.com/daolivar/leetcode/blob/main/go/palindrome-number.go) | 🟩 Easy |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Go](https://github.com/daolivar/leetcode/blob/main/go/roman-to-integer.go) | 🟩 Easy |
 | 19 | [Remove Nth Node from End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Go](https://github.com/daolivar/leetcode/blob/main/go/remove-nth-node-from-end-of-list.go) | 🟧 Med. |
+| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Go](https://github.com/daolivar/leetcode/blob/main/go/merge-two-sorted-lists.go) | 🟩 Easy |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Go](https://github.com/daolivar/leetcode/blob/main/go/remove-duplicates-from-sorted-array.go) | 🟩 Easy |
 | 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Go](https://github.com/daolivar/leetcode/blob/main/go/implement-strStr.go) | 🟩 Easy |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Go](https://github.com/daolivar/leetcode/blob/main/go/search-insert-position.go) | 🟩 Easy |
