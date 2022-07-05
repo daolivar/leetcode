@@ -1,6 +1,23 @@
 package leetcode
 
 // Recursive
+func mergeTwoLists(list1 *ListNode, list2 *ListNode) *ListNode {
+	if list1 == nil {
+		return list2
+	}
+	if list2 == nil {
+		return list1
+	}
+	var output *ListNode = nil
+	if list1.Val < list2.Val {
+		output = list1
+		list1.Next = mergeTwoLists(list1.Next, list2)
+	} else {
+		output = list2
+		list2.Next = mergeTwoLists(list1, list2.Next)
+	}
+	return output
+}
 
 // Iterative in-place
 func mergeTwoLists(list1 *ListNode, list2 *ListNode) *ListNode {
