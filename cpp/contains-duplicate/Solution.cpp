@@ -2,7 +2,7 @@
 class Solution {
 public:
     bool containsDuplicate(vector<int>& nums) {
-        std::sort(nums.begin(), nums.end());
+        sort(nums.begin(), nums.end());
         for (int i = 0; i < nums.size()-1; i++) {
             if (nums[i] == nums[i+1]) {
                 return true;
@@ -16,7 +16,7 @@ public:
 class Solution2 {
 public:
     bool containsDuplicate(vector<int>& nums) {
-        std::unordered_map<int, bool> seen;
+        unordered_map<int, bool> seen;
         for (auto i : nums) {
            if (seen[i]) {
                return true;
