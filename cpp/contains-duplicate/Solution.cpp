@@ -1,3 +1,7 @@
+#include <algorithm>
+#include <unordered_map>
+using namespace std;
+
 // Using Sorting
 class Solution {
 public:
