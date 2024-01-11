@@ -19,18 +19,18 @@ public class Solution {
      * @return {@code true} if the trees are the same, {@code false} otherwise.
      */
     public boolean isSameTree(TreeNode p, TreeNode q) {
-        // Base case: both trees are empty (null), indicating they are the same
+        // Base case: both trees are empty (null), indicating they are the same.
         if (p == null && q == null) {
             return true;
         }
 
         // If one of the trees is empty while the other is not, or their values are
-        // different, return false
+        // different, return false.
         if ((p == null || q == null) || (p.val != q.val)) {
             return false;
         }
 
-        // Recursively check the left and right subtrees
+        // Recursively check the left and right subtrees.
         return isSameTree(p.left, q.left) && isSameTree(p.right, q.right);
     }
 }
