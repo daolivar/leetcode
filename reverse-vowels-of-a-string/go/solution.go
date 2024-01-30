@@ -28,11 +28,9 @@ func reverseVowels(s string) string {
 		}
 
 		// Swap vowels
-		if i < j {
-			runes[i], runes[j] = runes[j], runes[i]
-			i++
-			j--
-		}
+		runes[i], runes[j] = runes[j], runes[i]
+		i++
+		j--
 	}
 
 	// Convert the rune slice back to a string and return
