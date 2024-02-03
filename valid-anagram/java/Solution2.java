@@ -6,10 +6,10 @@ class Solution2 {
     /**
      * Checks if two strings are anagrams using an array to track character counts.
      *
-     * Time Complexity: O(n), where 'n' is the length of the strings. In the worst
+     * Time Complexity: O(n) where n is the length of the strings. In the worst
      * case, the algorithm iterates through both strings once.
      * 
-     * Space Complexity: O(1), this is because the size of the array (int[26]) is
+     * Space Complexity: O(1) this is because the size of the array (int[26]) is
      * constant and does not depend on the size of the input strings.
      * 
      * @param s The first string to be compared.

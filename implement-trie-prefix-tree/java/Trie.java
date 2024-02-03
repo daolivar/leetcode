@@ -15,8 +15,8 @@ public class Trie {
     /**
      * Inserts a word into the trie.
      * 
-     * Time Complexity: O(n), where 'n' is the length of the word.
-     * Space Complexity: O(n), considering the worst-case scenario of creating nodes
+     * Time Complexity: O(n) where n is the length of the word.
+     * Space Complexity: O(n) considering the worst-case scenario of creating nodes
      * for each character.
      * 
      * @param word The word to insert.
@@ -33,7 +33,7 @@ public class Trie {
     /**
      * Searches for a word in the trie.
      * 
-     * Time Complexity: O(n), where 'n' is the length of the word.
+     * Time Complexity: O(n) where n is the length of the word.
      * Space Complexity: O(1).
      * 
      * @param word The word to search for.

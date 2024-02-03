@@ -5,11 +5,11 @@ public class Solution {
     /**
      * Checks if two binary trees are the same.
      * 
-     * Time Complexity: O(n), where 'n' is the total number of nodes in the larger
+     * Time Complexity: O(n), where n is the total number of nodes in the larger
      * of the two trees. In the worst case, the method needs to visit each node once
      * to determine if the trees are the same.
      * 
-     * Space Complexity: O(h), where 'h' is the height of the taller tree. The space
+     * Space Complexity: O(h), where h is the height of the taller tree. The space
      * complexity is determined by the recursive calls on the call stack. In the
      * worst case, the maximum depth of the call stack is equal to the height of the
      * tree.

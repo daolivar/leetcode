@@ -6,12 +6,12 @@ class Solution {
     /**
      * Checks for duplicate values in the given array.
      * 
-     * Time Complexity: O(n), where 'n' is the length of the input array nums. This
+     * Time Complexity: O(n) where n is the length of the input array nums. This
      * is because, in the worst case, the function iterates through the entire array
      * once, and each set operation (contains and add) takes constant time on
      * average.
      * 
-     * Space Complexity: O(n), in the worst case, where all elements in the array
+     * Space Complexity: O(n) in the worst case, where all elements in the array
      * are unique, the set set will contain all n elements. Therefore, the space
      * required is linearly proportional to the size of the input array.
      * 

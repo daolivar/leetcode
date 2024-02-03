@@ -6,10 +6,10 @@ public class Solution {
     /**
      * Performs inorder traversal on a binary tree.
      * 
-     * Time Complexity: O(n), where 'n' is the number of nodes in the binary tree.
+     * Time Complexity: O(n) where n is the number of nodes in the binary tree.
      * This is because each node is visited exactly once.
      * 
-     * Space Complexity: O(h), where 'h' is the height of the binary tree. This is
+     * Space Complexity: O(h) where h is the height of the binary tree. This is
      * because the space required for the recursion call stack is proportional to
      * the height of the tree. In a balanced binary tree, the height is log(n),
      * where n is the number of nodes. In the worst case (skewed tree), the height

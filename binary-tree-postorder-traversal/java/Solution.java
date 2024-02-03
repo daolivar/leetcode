@@ -8,10 +8,10 @@ public class Solution {
      * Performs postorder traversal on the given binary tree and returns the result
      * as a list of integers.
      * 
-     * Time Complexity: O(n), where 'n' is the number of nodes in the binary tree.
+     * Time Complexity: O(n) where n is the number of nodes in the binary tree.
      * Each node is visited exactly once during the traversal.
      * 
-     * Space Complexity: O(n), where 'n' is the height of the binary tree. The space
+     * Space Complexity: O(n) where n is the height of the binary tree. The space
      * is used for the recursive call stack, and in the worst case, the height of
      * the call stack is equal to the height of the tree.
      * 

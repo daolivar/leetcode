@@ -5,10 +5,10 @@ class Solution {
     /**
      * Finds two numbers in the given array that add up to the target.
      * 
-     * Time Complexity: O(n), where 'n' is the length of the input array nums. In
+     * Time Complexity: O(n) where n is the length of the input array nums. In
      * the worst case, the algorithm iterates through the entire array once.
      * 
-     * Space Complexity: O(n), where 'n' is the length of the input array nums. In
+     * Space Complexity: O(n) where n is the length of the input array nums. In
      * the worst case, the algorithm may store all elements of the array in the map
      * along with their indices.
      * 

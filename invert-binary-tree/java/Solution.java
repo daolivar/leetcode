@@ -9,16 +9,16 @@ class Solution {
      * This method recursively traverses the binary tree and swaps the left and
      * right subtrees at each node to create the inverted tree.
      * 
-     * Time Complexity: O(n), where 'n' is the number of nodes in the binary tree.
+     * Time Complexity: O(n) where n is the number of nodes in the binary tree.
      * This is because the function visits each node exactly once.
      * 
-     * Space Complexity: O(h), where 'h' is the height of the binary tree. It's
+     * Space Complexity: O(h) where h is the height of the binary tree. It's
      * important to note that the space complexity is determined by the maximum
      * depth of the recursive call stack, which corresponds to the height of the
      * tree. The number of recursive calls on the stack are proportional to the
      * height of the tree. In the worst case, where the tree is completely
-     * unbalanced (skewed), the height 'h' could be equal to 'n', resulting in O(n)
-     * space complexity. In a balanced tree, the height 'h' is O(log n).
+     * unbalanced (skewed), the height 'h' could be equal to n, resulting in O(n)
+     * space complexity. In a balanced tree, the height h is O(log n).
      * 
      * @param root The root of the binary tree to be inverted.
      * @return The root of the inverted binary tree.

@@ -5,10 +5,10 @@ public class Solution {
     /**
      * Performs level order traversal on a binary tree and returns the result.
      * 
-     * Time Complexity: O(n), where 'n' is the number of nodes in the binary tree.
+     * Time Complexity: O(n) where n is the number of nodes in the binary tree.
      * The algorithm traverses each node once.
      * 
-     * Space Complexity: O(m), where 'm' is the maximum number of nodes at any level
+     * Space Complexity: O(m) where m is the maximum number of nodes at any level
      * in the binary tree. In the worst case, all nodes at the last level would be
      * in the queue at the same time.
      * 

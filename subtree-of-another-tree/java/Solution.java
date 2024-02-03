@@ -5,16 +5,16 @@ class Solution {
     /**
      * Checks if a given tree is a subtree of another tree.
      * 
-     * Time Complexity: O(m * n), where 'm' is the number of nodes in the main tree
-     * and 'n' is the number of nodes in the potential subtree. In the worst case,
+     * Time Complexity: O(m * n), where m is the number of nodes in the main tree
+     * and n is the number of nodes in the potential subtree. In the worst case,
      * the method may need to compare each node of the larger tree with the entire
      * subtree of the smaller tree.
      * 
-     * Space Complexity: O(max(m, n)), where 'm' is the height of the main tree and
-     * 'n' is the height of the potential subtree. In the worst case, where one of
-     * the trees is completely unbalanced (skewed), the height 'h' could be equal to
-     * 'm' or 'n', resulting in O(m) or O(n) space complexity. In a balanced tree,
-     * the height 'h' is O(log m) or O(log n), depending on which tree is larger.
+     * Space Complexity: O(max(m, n)), where m is the height of the main tree and
+     * n is the height of the potential subtree. In the worst case, where one of
+     * the trees is completely unbalanced (skewed), the height h could be equal to
+     * m or n, resulting in O(m) or O(n) space complexity. In a balanced tree,
+     * the height h is O(log m) or O(log n), depending on which tree is larger.
      * 
      * @param root    The root of the main tree.
      * @param subRoot The root of the potential subtree.

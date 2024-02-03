@@ -2,12 +2,12 @@
 // results in a slice (`dp`). The slice is iteratively filled with the number of ways
 // to reach each step, starting from the base cases for steps 0 and 1.
 //
-// Time Complexity: O(n), this is because the function uses a bottom-up dynamic
+// Time Complexity: O(n) this is because the function uses a bottom-up dynamic
 // programming approach (tabulation) to fill the array dp from the base cases
 // (0  and 1) up to n. The loop iterates n times, and at each iteration, a
 // constant amount of work is done.
 //
-// Space Complexity: O(n), the array dp of size n + 1 is used to store the solutions to
+// Space Complexity: O(n) the array dp of size n + 1 is used to store the solutions to
 // subproblems. Therefore, the space required is linearly proportional to the input n.
 //
 // Parameters:

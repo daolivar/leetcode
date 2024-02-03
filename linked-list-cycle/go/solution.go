@@ -1,17 +1,17 @@
 // hasCycle determines whether a linked list has a cycle using Floyd's Tortoise and Hare algorithm.
 //
-// Time Complexity: O(n), where 'n' is the number of nodes in the linked list. The algorithm uses
+// Time Complexity: O(n) where n is the number of nodes in the linked list. The algorithm uses
 // two pointers, one moving twice as fast as the other. In the worst case, where there is a cycle,
 // the fast pointer will catch up with the slow pointer after going around the cycle once.
 //
-// Space Complexity: O(1), constant space. The algorithm only uses two pointers (slow and fast),
+// Space Complexity: O(1) constant space. The algorithm only uses two pointers (slow and fast),
 // regardless of the size of the linked list.
 //
 // Parameters:
-// - head: The head of the linked list.
+//   - head: The head of the linked list.
 //
 // Returns:
-// - true if there is a cycle in the linked list, false otherwise.
+//   - true if there is a cycle in the linked list, false otherwise.
 func hasCycle(head *ListNode) bool {
 	// Initialize two pointers, slow and fast, both starting from the head of the linked list.
 	slow, fast := head, head

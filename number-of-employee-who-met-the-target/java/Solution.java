@@ -7,10 +7,10 @@ class Solution {
      * Counts the number of employees who met or exceeded the target number of
      * hours.
      * 
-     * Time Complexity: O(n), where 'n' is the length of the input array hours. The
+     * Time Complexity: O(n) where n is the length of the input array hours. The
      * algorithm iterates through the entire array once.
      * 
-     * Space Complexity: O(1), as the space used is constant, independent of the
+     * Space Complexity: O(1) as the space used is constant, independent of the
      * input size.
      * 
      * @param hours  An array representing the hours worked by each employee.

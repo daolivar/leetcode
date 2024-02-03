@@ -6,12 +6,12 @@ public class Solution {
     /**
      * Checks whether a linked list has a cycle.
      * 
-     * Time Complexity: O(n), where 'n' is the number of nodes in the linked list.
+     * Time Complexity: O(n) where n is the number of nodes in the linked list.
      * The algorithm uses two pointers, one moving twice as fast as the other. In
      * the worst case, where there is a cycle, the fast pointer will catch up with
      * the slow pointer after going around the cycle once.
      * 
-     * Space Complexity: O(1), constant space. The algorithm only uses two pointers
+     * Space Complexity: O(1) constant space. The algorithm only uses two pointers
      * (slow and fast), regardless of the size of the linked list.
      * 
      * @param head The head of the linked list.

@@ -12,11 +12,11 @@ public class Solution {
      * maximum profit is updated by comparing the current profit (difference between
      * the current price and minSeenValue) with the existing maxProfit.
      * 
-     * Time Complexity: O(n), where 'n' is the number of elements in the input array
+     * Time Complexity: O(n) where n is the number of elements in the input array
      * prices. The algorithm iterates through the array once, performing
      * constant-time operations at each step.
      * 
-     * Space Complexity: O(1), the algorithm uses a constant amount of extra space
+     * Space Complexity: O(1) the algorithm uses a constant amount of extra space
      * regardless of the input size.
      * 
      * @param prices An array of stock prices where prices[i] is the price of a

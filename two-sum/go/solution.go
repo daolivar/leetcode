@@ -3,10 +3,10 @@
 // The function returns a slice containing the indices of the two numbers that sum up to the
 // target. If no such indices are found, an empty slice is returned.
 //
-// Time Complexity: O(n), where 'n' is the length of the input array nums. In the worst case,
+// Time Complexity: O(n) where n is the length of the input array nums. In the worst case,
 // the algorithm iterates through the entire array once.
 //
-// Space Complexity: O(n), where 'n' is the length of the input array nums. In the worst case,
+// Space Complexity: O(n) where n is the length of the input array nums. In the worst case,
 // the algorithm may store all elements of the array in the map along with their indices.
 //
 // Parameters:

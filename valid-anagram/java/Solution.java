@@ -8,10 +8,10 @@ class Solution {
      * 
      * Uses a map to store the frequency of characters.
      * 
-     * Time Complexity: O(n), where 'n' is the length of the input strings. In the
+     * Time Complexity: O(n) where n is the length of the input strings. In the
      * worst case, the algorithm iterates through both strings once.
      * 
-     * Space Complexity: O(c), where 'c' is the number of unique characters
+     * Space Complexity: O(c) where c is the number of unique characters
      * across both strings. In the worst case, all unique characters from both
      * strings are stored in the map. The maximum space required is proportional to
      * the number of unique characters, and it does not depend on the length of the

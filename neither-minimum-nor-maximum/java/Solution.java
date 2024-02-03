@@ -6,10 +6,10 @@ class Solution {
     /**
      * Finds a non-minimum or non-maximum element in the given array.
      * 
-     * Time Complexity: O(n), where 'n' is the length of the input array nums. The
+     * Time Complexity: O(n) where n is the length of the input array nums. The
      * algorithm iterates through the entire array once.
      * 
-     * Space Complexity: O(1), as the space used is constant, independent of the
+     * Space Complexity: O(1) as the space used is constant, independent of the
      * input size.
      * 
      * @param nums The array of integers.

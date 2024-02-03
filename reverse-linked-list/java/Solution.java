@@ -5,11 +5,11 @@ class Solution {
     /**
      * Reverses a linked list in-place.
      * 
-     * Time Complexity: O(n), where 'n' is the number of nodes in the linked list.
+     * Time Complexity: O(n) where n is the number of nodes in the linked list.
      * This is because the method iterates through each node in the list exactly
      * once.
      * 
-     * Space Complexity: O(1), as the algorithm uses a constant amount of extra
+     * Space Complexity: O(1) as the algorithm uses a constant amount of extra
      * space regardless of the size of the input linked list.
      * 
      * @param head The head of the linked list to be reversed.

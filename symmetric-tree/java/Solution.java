@@ -5,10 +5,10 @@ public class Solution {
     /**
      * Checks if a given binary tree is symmetric.
      * 
-     * Time Complexity: O(n), where n is the number of nodes in the binary tree.
+     * Time Complexity: O(n) where n is the number of nodes in the binary tree.
      * This is because each node is visited once.
      * 
-     * Space Complexity: O(h), where h is the height of the binary tree. In the
+     * Space Complexity: O(h) where h is the height of the binary tree. In the
      * worst case, the recursion depth is equal to the height of the tree.
      * 
      * @param root The root of the binary tree.

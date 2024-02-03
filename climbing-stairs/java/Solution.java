@@ -6,14 +6,14 @@ public class Solution {
     /**
      * Calculates the number of distinct ways to climb stairs.
      * 
-     * Time Complexity: O(n) This is because the function uses a bottom-up dynamic
+     * Time Complexity: O(n) this is because the function uses a bottom-up dynamic
      * programming approach (tabulation) to fill the array dp from the base cases (0
      * and 1) up to n. The loop iterates n times, and at each iteration, a constant
      * amount of work is done.
      * 
-     * Space Complexity: O(n), the dynamic programming array 'dp' has a size of 'n +
-     * 1' to store solutions to subproblems, space complexity is linear with respect
-     * to the input size 'n'.
+     * Space Complexity: O(n) the dynamic programming array 'dp' has a size of n + 1
+     * to store solutions to subproblems, space complexity is linear with respect
+     * to the input size n.
      * 
      * @param n The number of stairs to climb.
      * @return The number of distinct ways to climb the stairs.

@@ -6,10 +6,10 @@ class Solution {
     /**
      * Finds the smallest even multiple of the given integer.
      * 
-     * Time Complexity: O(1), as the operation involves a simple conditional check
+     * Time Complexity: O(1) as the operation involves a simple conditional check
      * and multiplication, both constant time.
      * 
-     * Space Complexity: O(1), as there is no additional space used that grows with
+     * Space Complexity: O(1) as there is no additional space used that grows with
      * the input.
      * 
      * @param n The input integer.

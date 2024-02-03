@@ -6,10 +6,10 @@ class Solution {
     /**
      * Checks if the given string is a palindrome, ignoring spaces and punctuation.
      *
-     * Time Complexity: O(n), where 'n' is the length of the input string s. In the
+     * Time Complexity: O(n) where n is the length of the input string s. In the
      * worst case, the algorithm iterates through the entire string once.
      * 
-     * Space Complexity: O(1), the algorithm uses a constant amount of additional
+     * Space Complexity: O(1) the algorithm uses a constant amount of additional
      * space regardless of the size of the input string.
      * 
      * @param s The input string to be checked.

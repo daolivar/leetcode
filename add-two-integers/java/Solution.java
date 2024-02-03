@@ -5,9 +5,9 @@ class Solution {
     /**
      * Calculates the sum of two numbers.
      * 
-     * Time Complexity: O(1), as the addition operation is constant time.
+     * Time Complexity: O(1) as the addition operation is constant time.
      * 
-     * Space Complexity: O(1), as there is no additional space used that grows with
+     * Space Complexity: O(1) as there is no additional space used that grows with
      * the input.
      * 
      * @param num1 The first integer.

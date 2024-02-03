@@ -6,10 +6,10 @@ class Solution {
     /**
      * Converts temperature from Celsius to Kelvin and Fahrenheit.
      * 
-     * Time Complexity: O(1), as the conversion involves basic arithmetic operations
+     * Time Complexity: O(1) as the conversion involves basic arithmetic operations
      * that are constant time.
      * 
-     * Space Complexity: O(1), as there is no additional space used that grows with
+     * Space Complexity: O(1) as there is no additional space used that grows with
      * the input.
      * 
      * @param celsius The temperature in Celsius.
