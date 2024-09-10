@@ -25,7 +25,7 @@ class Solution:
         for i in range(len(s)):
             freq_map[s[i]] += 1
             freq_map[t[i]] -= 1
-            
+
             # If the count for the character in s drops to 0, remove it from the map.
             if freq_map[s[i]] == 0:
                 del freq_map[s[i]]

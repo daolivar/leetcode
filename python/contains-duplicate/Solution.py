@@ -14,10 +14,10 @@ class Solution:
             During iteration, if an element is found in the `seen` set, a duplicate is detected, and True is returned.
             If no duplicates are found by the end of the iteration, False is returned.
         """
-        
+
         # Initialize a set to track seen values.
         seen = set()
-        
+
         # Iterate through the list of numbers.
         for num in nums:
             # Return True if the current number is already in the set.
