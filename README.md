@@ -17,12 +17,10 @@ This repository contains my solutions to various coding problems on LeetCode, im
 |             141.              | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)                                     |    Easy    | [Java](https://github.com/daolivar/leetcode/blob/main/java/linked-list-cycle/Solution.java), [Python](https://github.com/daolivar/leetcode/blob/main/python/linked-list-cycle/Solutioin.py)                              |
 |             155.              | [Min Stack](https://leetcode.com/problems/min-stack/description/)                                                     |   Medium   | [Python](https://github.com/daolivar/leetcode/blob/main/python/min-stack/MinStack.py)                                                                                                                                    |
 |             169.              | [Majority Element](https://leetcode.com/problems/majority-element/description/)                                       |    Easy    | [Python](https://github.com/daolivar/leetcode/blob/main/python/majority-element/Solution.py)                                                                                                                             |
+|             206.              | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)                                 |    Easy    | [Python](https://github.com/daolivar/leetcode/blob/main/python/reverse-linked-list/Solution.py)                                                                                                                          |
 |             217.              | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)                                   |    Easy    | [Java](https://github.com/daolivar/leetcode/blob/main/java/contains-duplicate/Solution.java), [Python](https://github.com/daolivar/leetcode/blob/main/python/contains-duplicate/Solution.py)                             |
 |             242.              | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)                                             |    Easy    | [Java](https://github.com/daolivar/leetcode/blob/main/java/valid-anagram/Solution.java), [Python](https://github.com/daolivar/leetcode/blob/main/python/valid-anagram/Solution.py)                                       |
 |             704.              | [Binary Search](https://leetcode.com/problems/binary-search/description/)                                             |    Easy    | [Python](https://github.com/daolivar/leetcode/blob/main/python/binary-search/Solution.py)                                                                                                                                |
 
-<!-- Java solutions link prefix -->
-<!-- https://github.com/daolivar/leetcode/blob/main/java/ -->
-
-<!-- Python solutions link prefix -->
-<!-- https://github.com/daolivar/leetcode/blob/main/python/ -->
+<!-- Solutions link prefix -->
+<!-- https://github.com/daolivar/leetcode/blob/main/ -->
