@@ -13,6 +13,7 @@ This repository contains my solutions to various coding problems on Leetcode.
 | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)                             |    Easy    |        [Python](https://github.com/daolivar/leetcode/blob/main/python/linked_list_cycle/solution.py)         |
 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)                         |    Easy    |       [Python](https://github.com/daolivar/leetcode/blob/main/python/reverse_linked_list/solution.py)        |
 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)                           |    Easy    |        [Python](https://github.com/daolivar/leetcode/blob/main/python/contains_duplicate/solution.py)        |
+| [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)                           |    Easy    |        [Python](https://github.com/daolivar/leetcode/blob/main/python/invert_binary_tree/solution.py)        |
 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)                                     |    Easy    |          [Python](https://github.com/daolivar/leetcode/blob/main/python/valid_anagram/solution.py)           |
 | [704. Binary Search](https://leetcode.com/problems/binary-search/description/)                                     |    Easy    |          [Python](https://github.com/daolivar/leetcode/blob/main/python/binary_search/solution.py)           |
 
